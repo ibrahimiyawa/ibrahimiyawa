@@ -32,7 +32,7 @@ Defensive Security Operations — log analysis, threat detection, SIEM, and inci
 ---
 
 ## 🔬 Projects
-### SOC Home Lab — Splunk SIEM & Threat Detection
+### [SOC Home Lab — Splunk SIEM & Threat Detection](https://github.com/ibrahimiyawa/splunk-soc-home-lab)
 • Built a functional SOC lab using Splunk Enterprise to centralize and analyze Windows security logs in real time.
 • Deployed Sysmon for endpoint telemetry, capturing process creation, network activity, and system changes.
 • Created SPL queries to detect brute-force login attempts (Event ID 4625), suspicious PowerShell execution, and
