@@ -32,6 +32,13 @@ Defensive Security Operations — log analysis, threat detection, SIEM, and inci
 ---
 
 ## 🔬 Projects
+### SOC Home Lab — Splunk SIEM & Threat Detection
+• Built a functional SOC lab using Splunk Enterprise to centralize and analyze Windows security logs in real time.
+• Deployed Sysmon for endpoint telemetry, capturing process creation, network activity, and system changes.
+• Created SPL queries to detect brute-force login attempts (Event ID 4625), suspicious PowerShell execution, and
+anomalous processes.
+• Simulated attack scenarios (credential abuse, command-line attacks) and performed alert triage and basic incident
+respons.
 
 ### 🖥️ [SOC Analyst Training Simulator](https://ibrahimiyawa.github.io/soc-analyst-simulator)
 Browser-based SOC training game with 8 real-world alert scenarios — brute force, PowerShell C2, Pass-the-Hash lateral movement, phishing triage, and more. Built to practice log analysis and incident triage decisions.
