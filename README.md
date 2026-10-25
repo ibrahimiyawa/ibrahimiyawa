@@ -40,6 +40,10 @@ Routing and switching: OSPF, VLAN design, inter-VLAN routing, DHCP, and secure d
 Designed and implemented a three-floor hotel network in Cisco Packet Tracer. Three routers linked in a serial triangle run OSPF, with router-on-a-stick inter-VLAN routing for 8 department VLANs, DHCP on each router, Wi-Fi access points on every floor, SSH v2 management and sticky MAC port security.
 `OSPF` `VLANs` `DHCP` `SSH` `Port Security` `Packet Tracer`
 
+### 🏢 [Four-Storey Office Network: Core, Distribution and Access](https://github.com/ibrahimiyawa/four-storey-office-network)
+Designed a hierarchical network for a 12-department office in Cisco Packet Tracer: four core routers in an OSPF ring, multilayer distribution switches acting as gateways and DHCP servers, and access switches on EtherChannel trunks. Subnetted 192.168.0.0/24 with VLSM into /28 department VLANs and /30 router links.
+`OSPF` `VLSM` `EtherChannel` `Inter-VLAN Routing` `DHCP` `Packet Tracer`
+
 ### 🏠 [Enterprise Home Lab: Active Directory](https://github.com/ibrahimiyawa)
 Multi-VM lab running Windows Server 2022 and Ubuntu. Implemented AD DS, DNS, OUs, GPOs and SSH key authentication with firewall rules.
 `Windows Server 2022` `Active Directory` `VirtualBox` `Ubuntu`
